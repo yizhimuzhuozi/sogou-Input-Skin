@@ -9,17 +9,12 @@
    ![image](https://github.com/yizhimuzhuozi/Sogou-Input-Skin/blob/main/img/5.png)
    字体选择：**方正FW筑紫黑简D**
    
-   搜狗输入法版本
-   ![image](https://github.com/yizhimuzhuozi/Sogou-Input-Skin/blob/main/img/4.png)
-   
-   输入法设置
-   ![image](https://github.com/yizhimuzhuozi/Sogou-Input-Skin/blob/main/img/3.png)
-
 2. 墨绿白
 
    ![image](https://github.com/yizhimuzhuozi/Sogou-Input-Skin/blob/main/img/6.png)
    字体选择：**方正FW筑紫黑简D**
-   
+
+# 输入法版本&设置
    搜狗输入法版本
    ![image](https://github.com/yizhimuzhuozi/Sogou-Input-Skin/blob/main/img/4.png)
    
